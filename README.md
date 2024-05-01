@@ -6,6 +6,9 @@ This repository contains a machine learning project aimed at detecting credit ca
 
 This Python script is designed for credit card fraud detection using a machine learning approach, particularly with a Random Forest Classifier.
 
+- Dataset Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?resource=download
+
+
 # The script performs the following steps:
 
 # 1. Load and Explore Data:
